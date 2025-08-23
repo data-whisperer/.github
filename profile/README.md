@@ -50,3 +50,6 @@ Here’s an overview of the main repositories in this organization:
 
 ## ⚙️ Architecture
 
+
+<img width="6676" height="5186" alt="JobMatchPlatform" src="https://github.com/user-attachments/assets/c043d7c0-11a5-4e21-b926-22c532b567a9" />
+
